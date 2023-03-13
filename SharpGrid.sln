@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpGrid", "SharpGrid\SharpGrid.csproj", "{F690CC5E-CF09-4769-91D5-BD6D6F7AED80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpGridSample", "SharpGridSample\SharpGridSample.csproj", "{3A3B9B9C-82F7-47F8-B752-7342FCA0AE2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F690CC5E-CF09-4769-91D5-BD6D6F7AED80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F690CC5E-CF09-4769-91D5-BD6D6F7AED80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F690CC5E-CF09-4769-91D5-BD6D6F7AED80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F690CC5E-CF09-4769-91D5-BD6D6F7AED80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3B9B9C-82F7-47F8-B752-7342FCA0AE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3B9B9C-82F7-47F8-B752-7342FCA0AE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3B9B9C-82F7-47F8-B752-7342FCA0AE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3B9B9C-82F7-47F8-B752-7342FCA0AE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6672D2C3-D89C-4988-AC8C-87D247A04F0C}
+	EndGlobalSection
+EndGlobal
